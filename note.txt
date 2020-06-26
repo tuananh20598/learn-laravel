@@ -2,7 +2,7 @@
  - php 7.2+ (php -v)
  - mysql 5.7 (mysql --version)
  - Memcache
- - Redis (redis-server --version
+ - Redis (redis-server --version)
  - Node JS (node -v)
  - NPM (webpack + build) (npm -v)
  - Git (git --version)
