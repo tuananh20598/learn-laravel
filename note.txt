@@ -9,3 +9,26 @@
  - Composer (composer)
  - Nginx (nginx -v)
  - Apache 2.4
+Create:
+ composer create-project --prefer-dist laravel/laravel Name
+
+Run:
+ php artisan serve
+
+Set port: 
+ php artisan serve --port xxxx
+
+Show route: 
+ php artisan route:list
+
+Create Controller:
+ php artisan make:controller Name --resource
+
+Trong Laravel: 
+	index()
+	create()
+	store()
+	edit()
+	update()
+	show()
+	destroy()
